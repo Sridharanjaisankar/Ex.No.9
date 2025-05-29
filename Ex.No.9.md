@@ -1,4 +1,4 @@
-# 19CS545-Ex1 - User Access and System Configuration in Linux 
+# 19CS545-Ex9 - User Access and System Configuration in Linux 
 
 # AIM:
 To set the Permission, set the Password expire date, assign Sudo Privilege, configure the 
